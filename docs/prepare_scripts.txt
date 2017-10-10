@@ -1,0 +1,9 @@
+Configure script:
+-------------------------------
+1. extract compressed project folder. DBUserAccess 1.0.0
+2. cd to DBUserAccess x.x.x/DBUserAccess
+3. chmod +x bin/scramble.out
+
+
+
+
